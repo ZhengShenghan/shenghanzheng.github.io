@@ -71,7 +71,7 @@ education:
   - area: Berkeley Engineering GLOBE Exchange
     institution: University of California, Berkeley
     date_start: 2021-06-01
-    date_end: 2022-05-7
+    date_end: 2022-05-07
     summary: |
       GPA: 3.83/4.0
 
